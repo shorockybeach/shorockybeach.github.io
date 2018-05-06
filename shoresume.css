@@ -1,0 +1,61 @@
+body {
+	background-color:e3e3e3;
+	font-family: Georgia, Times;
+	margin-left: 50px;
+	width: 1000px;
+}	
+
+h1, p, ul, h2, h3, {
+	
+}
+
+
+h1, h2 {
+	text-align: center;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+.bold {
+	font-weight: bold;
+
+}
+
+img {
+	width: 100%;
+	margin-left:500px;
+	float: right;
+	border-radius: 50%;
+}
+
+.wrap {
+	width: 1000px;
+	margin auto;
+	background-color: #BAEAE5;
+	overflow: hidden;
+}
+
+.content {
+	background: #77B1DC;
+	float: left;
+	width: 69%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+}
+
+aside {
+	background-color: #4AAEC4;
+	float: right;
+	width: 29%;
+	margin-right: 1%;
+	
+}
+
+footer {
+	text-align: center;
+	font-family; Georgia;
+	color: grey;
+}
